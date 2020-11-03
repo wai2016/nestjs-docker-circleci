@@ -1,4 +1,11 @@
 # Nest.js + Docker + CircleCI
+
+## Development
+Using docker-compose to set up both backend and database.
+
+## Production
+Using docker only to set up backend with apline node image.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
